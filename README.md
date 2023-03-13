@@ -3,7 +3,7 @@ I'm Draco.
 
 📔 I'm an undergraduate student majoring in Software Engineering at Nanjing University.
 
-🌱 I'm currently learning Distributed System.
+🌱 I'm currently learning Distributed System and Rust.
 
 🔭 I'm interested in Database and Wasm.
 
