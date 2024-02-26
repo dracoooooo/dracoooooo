@@ -1,6 +1,6 @@
 # Hi there👋
 
-📔 I'm an graduate student majoring in Software Engineering at Nanjing University.
+📔 I'm a graduate student majoring in Software Engineering at Nanjing University.
 
 🌱 I'm currently learning Distributed System and Rust.
 
