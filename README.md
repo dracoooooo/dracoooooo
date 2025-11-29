@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning Distributed System and Rust.
 
-🔭 I'm interested in Database.
+🔭 I'm interested in Database and AI Infra.
 
 # 💻 Tech Stack:
 
